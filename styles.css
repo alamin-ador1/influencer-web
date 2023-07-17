@@ -124,6 +124,7 @@ pa
   display: flex;
   justify-content: space-around;
   width: 1440px;
+  padding-bottom: 4rem;
 }
 .gear-tiltle{
   color: #0A0826;
@@ -156,7 +157,7 @@ margin-top: 10px;
 .footer-container{
   text-align: center;
   width: 1440px;
-  height: 239px;
+  height: 130px;
   background: #0A0826;
   color: #FFF;
   padding-top: 3.5rem;
